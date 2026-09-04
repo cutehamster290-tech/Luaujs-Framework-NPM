@@ -1,5 +1,5 @@
 # Luaujs
-A Framework that transforms Luau's code in HTML code.
+A Open-Source Framework that transforms Luau's code in HTML code.
 
 # Install
 To install it use `npm install luaujs` if you installed NodeJs in your Computer!
