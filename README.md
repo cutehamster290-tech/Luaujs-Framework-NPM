@@ -33,4 +33,4 @@ Once you wrote `luaujs create dir_name (oprional)` you will see a new Directory 
 there are also more commands, these are just some commands you can use to generate HTML using Luau, you can explore by yourself, like `element.innerHTML` or `element.mdAttributes` (to modify the attributes of an element)!
 
 # Future Updates
-- read will be able to read files backwards, so youll be able to write `../main/...`, `..` stands for 'search in the directory where i am inside' or the Parent of the current Directory.
+- Javascript code inside the Framework
