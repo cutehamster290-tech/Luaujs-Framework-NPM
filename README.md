@@ -18,8 +18,6 @@ Remember to write `luaujs ` followed by these commands:
 # Framework
 Once you've written `luaujs create dir_name` (the name is optional), you'll see a new directory named `dir_name`, or `Template` if you didn't name it, in the folder where you called the command from the terminal. Inside it there will be: `index.html`, `main.lua`, and a directory with some modules you can require in the main script using `Get(module_name)` — you can also create your own module that returns something and require it that way! At the beginning, you'll see that `main.lua` contains some code very similar to regular Luau code, such as `require()` and `Instance.new()`, and you'll also notice methods like `mdText()`, which I'll explain more deeply later.
 
-As soon as you run `main.lua`, the framework converts that Luau code into HTML — there's no separate command for it, running the file is enough.
-
 - `setMultiple/setSettings`: these 2 methods change the way the result appears (from Luau to HTML). If you remove them, you'll see HTML code that's all "stuck together," because we removed the indentation, spacing, and formatting. `setMultiple` asks for 2 arguments — the values you want to set, and the value you want to give them — we use these 2 lines purely for the readability of the result.
 
 - `Instance.new(element: string)`: here we get more into Luau. We use this to create a new Instance, which is actually an HTML element (h1, h2, div, label, ...), generating a basic structure for it: opening tag, text, closing tag, parent, children, and much more.
