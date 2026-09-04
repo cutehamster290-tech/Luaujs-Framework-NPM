@@ -1,6 +1,6 @@
 # Luaujs
 A Open-Source Framework that transforms Luau's code in HTML code.
-## Look at this Documentation if you want to use LuauJs **Outside** of Roblox Studio, or else visit https://github.com/cutehamster290-tech/LuauJS-Roblox-Studio/edit/main/README.md
+## Look at this Documentation if you want to use LuauJs **Outside** of Roblox Studio, or else visit https://github.com/cutehamster290-tech/LuauJS-Roblox-Studio/edit/main
 
 # Install
 To install it use `npm install luaujs` if you installed NodeJs in your Computer!
