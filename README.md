@@ -1,3 +1,5 @@
+# DONT USE THIS FRAMEWORK: the creator lost a important part of the framework, and he'll recreate it when he got time. Thanks for Reading!
+
 # Luaujs
 An Open-Source Framework that transforms Luau code into HTML code.
 ## Look at this Documentation if you want to use LuauJs **Outside** of Roblox Studio, or else visit https://github.com/cutehamster290-tech/LuauJS-Roblox-Studio
